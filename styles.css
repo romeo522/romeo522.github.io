@@ -1,0 +1,595 @@
+@import url("https://themes.googleusercontent.com/fonts/css?kit=RFda8w1V0eDZheqfcyQ4EGb3DKsRMD34dqg1gT8Z-p7OfsfM6rvuuu7h1pY3r_-A");
+
+ul.lst-kix_okrx2go4nh6k-3 {
+  list-style-type: none;
+}
+
+.lst-kix_okrx2go4nh6k-2 > li:before {
+  content: "\0025a0  ";
+}
+
+ul.lst-kix_okrx2go4nh6k-2 {
+  list-style-type: none;
+}
+
+.lst-kix_okrx2go4nh6k-3 > li:before {
+  content: "\0025cf  ";
+}
+
+ul.lst-kix_okrx2go4nh6k-5 {
+  list-style-type: none;
+}
+
+ul.lst-kix_okrx2go4nh6k-4 {
+  list-style-type: none;
+}
+
+.lst-kix_okrx2go4nh6k-1 > li:before {
+  content: "\0025cb  ";
+}
+
+.lst-kix_okrx2go4nh6k-5 > li:before {
+  content: "\0025a0  ";
+}
+
+ul.lst-kix_okrx2go4nh6k-1 {
+  list-style-type: none;
+}
+
+ul.lst-kix_okrx2go4nh6k-0 {
+  list-style-type: none;
+}
+
+.lst-kix_okrx2go4nh6k-6 > li:before {
+  content: "\0025cf  ";
+}
+
+.lst-kix_okrx2go4nh6k-8 > li:before {
+  content: "\0025a0  ";
+}
+
+.lst-kix_okrx2go4nh6k-0 > li:before {
+  content: "\0025cf  ";
+}
+
+li.li-bullet-0:before {
+  margin-left: -18pt;
+  white-space: nowrap;
+  display: inline-block;
+  min-width: 18pt;
+}
+
+.lst-kix_okrx2go4nh6k-7 > li:before {
+  content: "\0025cb  ";
+}
+
+ul.lst-kix_okrx2go4nh6k-7 {
+  list-style-type: none;
+}
+
+.lst-kix_okrx2go4nh6k-4 > li:before {
+  content: "\0025cb  ";
+}
+
+ul.lst-kix_okrx2go4nh6k-6 {
+  list-style-type: none;
+}
+
+ul.lst-kix_okrx2go4nh6k-8 {
+  list-style-type: none;
+}
+
+ol {
+  margin: 0;
+  padding: 0;
+}
+
+table td,
+table th {
+  padding: 0;
+}
+
+/* bottom table left cell */
+.c29 { 
+  vertical-align: top;
+  width: 348pt;
+}
+
+/* top table left cell */
+.c42 { 
+  vertical-align: top;
+  width: 366pt;
+}
+
+/* top table right cell */
+.c25 { 
+  vertical-align: top;
+  width: 174pt;
+}
+
+/* bottom table right cell */
+.c4 { 
+  vertical-align: top;
+  width: 192pt;
+}
+
+/* section titles -education */
+.c13 {
+  -webkit-text-decoration-skip: none;
+  color: #351c75;
+  font-weight: 700;
+  text-decoration: underline;
+  vertical-align: baseline;
+  text-decoration-skip-ink: none;
+  font-size: 14pt;
+  font-family: "Merriweather";
+  font-style: normal;
+}
+
+/* skills list items */
+.c3 { 
+  margin-left: 54pt;
+  padding-top: 0pt;
+  padding-left: 0pt;
+  padding-bottom: 0pt;
+  line-height: 1;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+}
+
+/* experience work names */
+.c22 { 
+  padding-top: 14pt;
+  padding-bottom: 4pt;
+  line-height: 1;
+  page-break-after: avoid;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+}
+
+/* experience work titles */
+.c0 { 
+  color: #000000;
+  font-weight: 400;
+  text-decoration: none;
+  vertical-align: baseline;
+  font-size: 12pt;
+  font-family: "Merriweather";
+  font-style: italic;
+}
+
+/* list items and dates in work history */
+.c1 {
+  color: #000000;
+  font-weight: 400;
+  text-decoration: none;
+  vertical-align: baseline;
+  font-size: 9pt;
+  font-family: "Merriweather";
+  font-style: normal;
+}
+
+/* blank spaces between the 3 main sections */
+.c14 {
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+  line-height: 1;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+  height: 11pt;
+}
+
+/* EXPERIENCE line */
+.c37 {
+  padding-top: 10pt;
+  padding-bottom: 0pt;
+  line-height: 1;
+  page-break-after: avoid;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+}
+
+/* name cell/line */
+.c21 {
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+  line-height: 1;
+  page-break-after: avoid;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+}
+
+/* work description lines*/
+.c5 {
+  color: #000000;
+  font-weight: 400;
+  text-decoration: none;
+  vertical-align: baseline;
+  font-size: 10pt;
+  font-family: "Merriweather";
+  font-style: normal;
+}
+
+/* SKILLS title line */
+.c41 {
+  padding-top: 0pt;
+  padding-bottom: 4pt;
+  line-height: 1.5;
+  page-break-after: avoid;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+}
+
+/* EDU Title word*/
+.c32 {
+  -webkit-text-decoration-skip: none;
+  color: #351c75;
+  font-weight: 700;
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+  font-family: "Merriweather";
+}
+
+/* EDU,CERTS,LINKS names */
+.c24 {
+  margin-left: 22.5pt;
+  padding-top: 14pt;
+  padding-bottom: 4pt;
+  line-height: 1;
+  page-break-after: avoid;
+  text-align: right;
+}
+
+/* work description paragraph */
+.c12 {
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+  line-height: 1;
+  orphans: 2;
+  widows: 2;
+  text-align: justify;
+}
+
+/* phone line */
+.c28 {
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+  line-height: 1.15;
+  orphans: 2;
+  widows: 2;
+  text-align: right;
+}
+
+/* CERT title line */
+.c34 {
+  margin-left: 22.5pt;
+  padding-top: 16pt;
+  padding-bottom: 0pt;
+  line-height: 1;
+  page-break-after: avoid;
+  text-align: right;
+}
+
+/* work dates lines */
+.c15 {
+  margin-top: -20;
+  margin-bottom: 5;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+  line-height: 1.5;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+}
+
+/* email line */
+.c9 {
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+  line-height: 1;
+  orphans: 2;
+  widows: 2;
+  text-align: right;
+}
+
+/* EDU title line */
+.c16 {
+  margin-left: 22.5pt;
+  padding-top: 10pt;
+  padding-bottom: 0pt;
+  line-height: 1;
+  page-break-after: avoid;
+  text-align: right;
+}
+
+.c2 {
+  margin-left: 22.5pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+  line-height: 1;
+  text-align: right;
+}
+
+/* bottom left column*/
+.c11 {
+  margin-top: -20;
+  margin-bottom: 5;
+  margin-left: 22.5pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+  line-height: 1.15;
+  text-align: right;
+}
+
+.c43 {
+  margin-left: 22.5pt;
+  padding-top: 0pt;
+  padding-bottom: 15pt;
+  line-height: 1;
+  text-align: right;
+}
+
+.c23 {
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+  line-height: 1;
+  text-align: left;
+  height: 11pt;
+}
+
+.c20 {
+  font-size: 36pt;
+  font-family: "Merriweather";
+  color: #351c75;
+  font-weight: 400;
+}
+
+/* both table outside boxes */
+.c27 {
+  margin-left: auto;
+  border-spacing: 0;
+  border-collapse: collapse;
+  margin-right: auto;
+}
+
+.c26 {
+  text-decoration: none;
+  vertical-align: baseline;
+  font-size: 11pt;
+  font-style: normal;
+}
+
+.c10 {
+  font-family: "Merriweather";
+  font-style: italic;
+  color: #000000;
+  font-weight: 400;
+}
+
+.c18 {
+  font-family: "Merriweather";
+  color: #000000;
+  font-weight: 400;
+}
+
+.c38 {
+  font-size: 17pt;
+  font-family: "Merriweather";
+  font-weight: 400;
+}
+
+.c8 {
+  font-family: "Merriweather";
+  color: #000000;
+  font-weight: 700;
+}
+
+.c30 {
+  font-size: 10pt;
+  font-family: "Merriweather";
+  font-weight: 400;
+}
+
+/* Main content body*/
+.c33 {
+  border-style: dashed;
+  border-radius: 50px;
+  border-color: #351c75;
+  border-width: 1px;
+  background-color: #ccc;
+  margin: auto;
+  max-width: 540pt;
+  padding: 36pt 36pt 36pt 36pt;
+}
+
+.c7 {
+  font-size: 9pt;
+  font-family: "Merriweather";
+  font-weight: 400;
+}
+
+.c31 {
+  text-decoration: none;
+  vertical-align: baseline;
+  font-style: normal;
+}
+
+.c6 {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.c17 {
+  padding: 0;
+  margin: 0;
+}
+
+.c40 {
+  font-family: "Merriweather";
+  font-weight: 400;
+}
+
+.c35 {
+  font-size: 12pt;
+}
+
+.c19 {
+  height: 564pt;
+}
+
+.c44 {
+  font-size: 17pt;
+}
+
+.c36 {
+  font-size: 14pt;
+}
+
+.c39 {
+  height: 0pt;
+}
+
+.title {
+  padding-top: 0pt;
+  color: #000000;
+  font-size: 26pt;
+  padding-bottom: 3pt;
+  font-family: "Arial";
+  line-height: 1.15;
+  page-break-after: avoid;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+}
+
+.subtitle {
+  padding-top: 0pt;
+  color: #666666;
+  font-size: 15pt;
+  padding-bottom: 16pt;
+  font-family: "Arial";
+  line-height: 1.15;
+  page-break-after: avoid;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+}
+
+li {
+  color: #000000;
+  font-size: 11pt;
+  font-family: "Arial";
+}
+
+p {
+  margin: 0;
+  color: #000000;
+  font-size: 11pt;
+  font-family: "Arial";
+}
+
+h1 {
+  padding-top: 20pt;
+  color: #000000;
+  font-size: 20pt;
+  padding-bottom: 6pt;
+  font-family: "Arial";
+  line-height: 1.15;
+  page-break-after: avoid;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+}
+
+h2 {
+  padding-top: 18pt;
+  color: #000000;
+  font-size: 16pt;
+  padding-bottom: 6pt;
+  font-family: "Arial";
+  line-height: 1.15;
+  page-break-after: avoid;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+}
+
+h3 {
+  padding-top: 16pt;
+  color: #434343;
+  font-size: 14pt;
+  padding-bottom: 4pt;
+  font-family: "Arial";
+  line-height: 1.15;
+  page-break-after: avoid;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+}
+
+h4 {
+  padding-top: 14pt;
+  color: #666666;
+  font-size: 12pt;
+  padding-bottom: 4pt;
+  font-family: "Arial";
+  line-height: 1.15;
+  page-break-after: avoid;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+}
+
+h5 {
+  padding-top: 12pt;
+  color: #666666;
+  font-size: 11pt;
+  padding-bottom: 4pt;
+  font-family: "Arial";
+  line-height: 1.15;
+  page-break-after: avoid;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+}
+
+h6 {
+  padding-top: 12pt;
+  color: #666666;
+  font-size: 11pt;
+  padding-bottom: 4pt;
+  font-family: "Arial";
+  line-height: 1.15;
+  page-break-after: avoid;
+  font-style: italic;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+}
+
+/* Button styles */
+.styled {
+  border: 0;
+  line-height: 2.5;
+  padding: 5px 10px;
+  font-size: 1rem;
+  text-align: center;
+  color: #ffffff;
+  text-shadow: 1px 1px 1px #000000;
+  border-radius: 10px;
+  background-color: rgba(200, 0, 0, 1);
+  background-image: linear-gradient(to top left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) 30%, rgba(0, 0, 0, 0));
+  box-shadow: inset 2px 2px 3px rgba(255, 255, 255, 0.6), inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+}
+.styled:hover {
+  background-color: rgba(255, 0, 0, 1);
+}
+.styled:active {
+  box-shadow: inset -2px -2px 3px rgba(255, 255, 255, 0.6), inset 2px 2px 3px rgba(0, 0, 0, 0.6);
+}
